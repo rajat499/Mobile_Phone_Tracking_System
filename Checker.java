@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class assn2checker
+public class Checker
 {
 	public static void main ( String args [])
 	{
